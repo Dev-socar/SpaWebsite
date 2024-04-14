@@ -4,7 +4,7 @@
   "description": "Sitio web de una empresa de SPA, usando CSS Grid, Flexbox & SASS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "gulp dev"
   },
   "author": "Omar Fernando Solís Carvajal",
   "license": "ISC",
